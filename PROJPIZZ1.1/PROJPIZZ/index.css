@@ -1,0 +1,43 @@
+#loghed{
+    width: 9%;
+    height: 9%;
+}
+body{
+    background-image: url("img/fundo.jpg");
+    margin: 0%;
+    padding: 0%;
+}
+#logfot{
+    width: 9%;
+    height: 9%;
+    margin-left: auto;
+    margin-right: auto;
+    display:flex;
+    margin-top: 2%;
+    margin-bottom: -3%;
+
+}
+header{
+    display: flex;
+    background-color: #FE9900;
+    align-items: center;
+    padding-bottom: 5%;
+}
+footer{
+    padding-top: 1%;
+    display: block;
+    color: black;
+    font-weight: bolder;
+    line-break:strict;
+    text-align: center;
+    background-color: #FE9900;
+    font-size: small;
+    padding-bottom: 5%;
+}
+
+#cardmen{
+    display: flex;
+background-color: brown;
+align-items: center;
+}
+img{width: 15%;}
